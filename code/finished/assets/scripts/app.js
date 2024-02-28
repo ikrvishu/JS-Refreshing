@@ -152,5 +152,5 @@
 
 const hobbies = ["Sports", "Cooking"];
 // hobbies = [];
-hobbies.push("Working");
+hobbies.push("Working now");
 console.log(hobbies);
